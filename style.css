@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    outline: 1px solid brown;
+    width: 1920px;
+    height: 900px;
+    margin: 0 auto;
+}
+img {
+    height: 950px;
+}
